@@ -1,0 +1,87 @@
+nav ul a {
+	font-size: 1.2rem;
+	letter-spacing: 2px;
+	font-weight: 300;
+}
+
+nav {
+	box-shadow: none;
+	background-color: #1e88e5;
+}
+
+span {
+	font-weight: 400;
+}
+
+i {
+	color: #1e88e5;
+}
+
+.brand-logo {
+	font-weight: 100;
+}
+
+.material-icons {
+	color: white;
+}
+
+.navbar-fixed {
+	z-index: 998;
+}
+
+#intro {
+	min-height: 632px;
+	max-height: 864px;
+	background-color: #1e88e5;
+}
+
+.intro-text {
+	font-weight: 300;
+	padding: 15% 0 0 0;
+	font-size: 6.0rem;
+	color: white;
+}
+
+.intro-text-2 {
+	font-weight: 100;
+	color: white;
+}
+
+.icon_blue {
+	color: #1e88e5;
+}
+
+.h2-text {
+	font-weight: 100;
+	line-height: 4.5rem;
+	margin-bottom: 4%;
+}
+
+.h2-span {
+	color: #1e88e5;
+	font-weight: 300;
+}
+
+#work, #about {
+	background: rgb(247,247,247);
+}
+
+.h2-text-alt {
+	color: #1e88e5;
+}
+
+.card .card-image img {
+	height: 250px;
+}
+
+.parallax-container {
+	max-height: 500px;
+}
+
+footer {
+	background-color: #1e88e5;
+}
+
+#footer-row {
+	margin-bottom: 0;
+}
