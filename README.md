@@ -1,1 +1,3 @@
-# mattwhite8.github.io
+# My Materialize.css portfolio
+
+## Inspired by the material design template by joashp

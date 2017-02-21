@@ -71,7 +71,7 @@ i {
 }
 
 .card .card-image img {
-	height: 250px;
+	height: auto;
 }
 
 .parallax-container {
